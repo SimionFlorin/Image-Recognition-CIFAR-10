@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights-with-generator-2conv-2max-0545"
+all_model_checkpoint_paths: "weights-with-generator-2conv-2max-0545"
